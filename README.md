@@ -390,7 +390,8 @@ Some changes to the cluster configuration can be made by re-running K2.
 
 - cluster name
 ```clusters:
-  - name: YOURCLUSTER```
+  - name: YOURCLUSTER
+```
 - etcd settings (beyond machine type)
 
 ### Things that can be changed (sometimes with some manual intervention)
